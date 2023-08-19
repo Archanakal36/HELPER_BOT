@@ -17,13 +17,13 @@ Regular checkup of vital parameters
 SOS to doctors with live telecast -Supply off medicines and foods
 
 # What we learned
-CNN
-Machine Learning
-Mobile Application
-Cloud Technology
-Computer Vision
-Pi Cam Interaction
-Flutter for Mobile application
+- CNN
+- Machine Learning
+- Mobile Application
+- Cloud Technology
+- Computer Vision
+- Pi Cam Interaction
+- Flutter for Mobile application
 
 
 # Implementation
